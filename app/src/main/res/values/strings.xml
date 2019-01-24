@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ataque Naval</string>
+
+    <!-- Device chooser -->
+
+    <string name="ataque_naval">Ataque Naval</string>
+</resources>
